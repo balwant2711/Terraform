@@ -1,5 +1,3 @@
-Great 🚀 Here’s a **complete `README.md` file** for your Terraform project (**Creating and Destroying a VPC**) that you can directly upload to GitHub:
-
 ---
 
 # 🌐 Create & Destroy VPC using Terraform  
