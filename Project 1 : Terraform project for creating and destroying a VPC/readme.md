@@ -78,7 +78,7 @@ Here are some screenshots of the project in action:
 
 | Terraform Plan                            | Terraform Apply                             | AWS Console VPC                       |
 | ----------------------------------------- | ------------------------------------------- | ------------------------------------- |
-| ![Terraform Plan](./screenshots/plan.png) | ![Terraform Apply](./screenshots/apply.png) | ![AWS Console](./screenshots/vpc.png) |
+| ![Terraform Plan](./Screenshots/plan.png) | ![Terraform Apply](./Screenshots/apply.png) | ![AWS Console](./Screenshots/vpc.png) |
 
 *(Replace with your actual uploaded screenshots in the `screenshots/` folder.)*
 
