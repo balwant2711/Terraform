@@ -135,7 +135,10 @@ terraform destroy -auto-approve
 
 ---
 
+
 ## 📸 Screenshots
+    
+  <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/d352dc82-df3a-44c1-9896-0d5f49b8e5a1" />
 
 1. **Terraform Apply Output** – <img width="1899" height="970" alt="Screenshot 2025-09-12 170711" src="https://github.com/user-attachments/assets/5820e152-3494-41f5-8e0e-59a8bce72690" />
 
@@ -161,4 +164,3 @@ Learning by doing projects with Terraform & AWS.
 
 ---
 
-👉 Do you also want me to make a **diagram section** (like we did earlier with VPC + Subnets diagram) inside this README so it’s more visual?
