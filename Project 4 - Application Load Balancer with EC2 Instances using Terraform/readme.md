@@ -1,9 +1,3 @@
-Perfect — you want me to create a **GitHub-style `README.md`** for your **Application Load Balancer with EC2 Instances using Terraform** project, in the same detailed and professional format as your S3 + SNS one.
-
-Here’s the complete draft:
-
----
-
 # 🚀 Application Load Balancer with EC2 Instances using Terraform
 
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat\&logo=terraform\&logoColor=white)
